@@ -1,0 +1,29 @@
+
+<b>BiTGApps Pie:</b>
+  - Initial Build 0.1 up for Pie.
+  - All Apps Updated to latest version.
+  - addon.d Survival Support.
+  - Build v0.2
+  - Merge Official Pie GApps Changes Into BiTGApps Pie.
+  - Added System Files For Voice Commands.
+  - Complete addon.d survival support.
+  - All Apps Updated To Latest Version. 
+
+<b>BiTGApps Oreo:</b>
+  - Initial Build 0.1
+  - All Apps Updated to latest version.
+  - Fixed Vendor and Cust Partition Problem.
+  - No TrebleCust BiTGApp.
+  - Only Treble(Vendor) and Non-Treble Builds.
+  - Build 0.2 is up.
+  - Only Treble and Non-Treble.
+  - All Apps Updated to latest version.
+  - Build 0.3 is up.
+  - Treble and Non-Treble
+  - All Apps Updated to latest version.
+  - addon.d survival support. 
+
+<b>BiTGApps Nougat:</b>
+  - Initial Build 0.1
+  - All Apps Updated to latest version.
+  - addon.d Survival Support.
