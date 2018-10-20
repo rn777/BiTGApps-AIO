@@ -1,1 +1,1 @@
-ARCH : arm64
+# ARCH : *arm64
